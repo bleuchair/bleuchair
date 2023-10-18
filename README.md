@@ -27,4 +27,4 @@ I'm a Software Developer who is passionate about making code more accessible, cr
 
 ### 🤝 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lun-lee/))
+- [LinkedIn](https://www.linkedin.com/in/lun-lee/)
