@@ -25,17 +25,6 @@ I'm a Software Developer who is passionate about making code more accessible, cr
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-### 📘 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Demystifying the MERN Stack: A Beginner's Guide](#)
-- [Why Python is My Go-To Language for Web Scraping](#)
-- [Navigating Through Early Stages of a Startup](#)
-<!-- BLOG-POST-LIST:END -->
-
 ### 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [My Website](https://your-website.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/lun-lee/))
