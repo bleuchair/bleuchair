@@ -10,8 +10,7 @@ I'm a Software Developer who is passionate about making code more accessible, cr
 - 🌱 I’m currently learning more about Artificial Intelligence, Systems Design, and the intersection of neuroscience and programming.
 - 👯 I’m looking to collaborate on projects that are using technology for social good, especially in fields impacting mental health, education, and environmental sustainability.
 - 🤔 I’m seeking help with understanding more about biotechnology, quantum computing, and their potential synergies with software development.
-- 💬 Ask me about anything tech-related, digital innovation, or Star Trek trivia!
-- 📫 How to reach me: [Click Here](mailto:your-email@example.com) to shoot me an email.
+- 📫 How to reach me: [Click Here](mailto:alan-lee-123@hotmail.com) to shoot me an email.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once attended a programming conference where I inadvertently spoke entirely in code for the first 5 minutes!
 
