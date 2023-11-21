@@ -4,16 +4,6 @@ I'm a Software Developer who is passionate about making code more accessible, cr
 
 🔭 I previously worked on [InspoBoard](https://www.getinspoboard.com/), a platform dedicated to bringing inspiration to every aspect of your life through personalized content and community-driven insights. I'm currently immersed in contributing my skills to a groundbreaking, yet-to-be-revealed startup that promises to redefine how we use technology in our daily routines.
 
-### 🎯 Quick Facts
-
-- 🔍 I'm currently focusing on deepening my expertise in backend architectures, security, and cloud-based processes.
-- 🌱 I’m currently learning more about Artificial Intelligence, Systems Design, and the intersection of neuroscience and programming.
-- 👯 I’m looking to collaborate on projects that are using technology for social good, especially in fields impacting mental health, education, and environmental sustainability.
-- 🤔 I’m seeking help with understanding more about biotechnology, quantum computing, and their potential synergies with software development.
-- 📫 How to reach me: [Click Here](mailto:alan-lee-123@hotmail.com) to shoot me an email.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once attended a programming conference where I inadvertently spoke entirely in code for the first 5 minutes!
-
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
